@@ -24,7 +24,7 @@ export default function Navbar(props) {
 					</form>
 				</div>
 			</div>
-		</nav>
+    </nav>
 	);
 }
 
